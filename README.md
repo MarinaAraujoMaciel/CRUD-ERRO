@@ -1,2 +1,1 @@
-# Lab_Project
- Repositório dedicado a aula do Sabha
+Alguns erros no crud
